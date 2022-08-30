@@ -1,0 +1,148 @@
+*
+{
+    margin: 0;
+}
+.menu
+{
+    background-color: red;
+}
+.menu ul
+{
+    text-decoration: none;
+}
+.menu li
+{
+    display: inline;
+}
+.menu a
+{
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: black;
+    color: white;
+}
+#anum1
+{
+    color: black;
+    background-color: white;
+}
+.menu a:hover
+{
+    color: black;
+    background-color: white;
+}
+#anum1:hover
+{
+    background-color: grey;
+}
+.start
+{
+    background-color: red;
+    color: white;
+    height: 450px;
+    text-align: center;
+    font-size: 2em;
+    font-family: "Lato", sans-serif;
+}
+.start h1, h4, a
+{
+    font-weight: 300;
+}
+.start a
+{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 5px 10px 5px 10px;
+}
+.start a:hover
+{
+    color: black;
+    background-color: grey;
+}
+.start h1, h4, a
+{
+    text-align: center;
+}
+.container1
+{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    padding: 100px 200px 100px 200px;
+    font-family: "Lato", sans-serif;
+}
+.container1 .left
+{
+    width: 70%;
+    font-size: 1.2em;
+    opacity: 0.7;
+}
+.container1 .right
+{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+#ikon
+{
+    font-size: 12em;
+}
+.container2
+{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    padding: 100px 200px 100px 200px;
+    font-family: "Lato", sans-serif;
+    background-color: rgb(224, 224, 224);
+}
+.container2 .right
+{
+    width: 70%;
+    font-size: 1.2em;
+}
+.container2 .left
+{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+#ikon2
+{
+    font-size: 12em;
+}
+.grey
+{
+    opacity: 0.7;
+}
+.pfirst
+{
+    font-size: 1.2em;
+}
+.container3
+{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+.container4
+{
+    text-align: center;
+    padding: 100px 200px 100px 200px;
+    opacity: 0.7;
+}
+.container4 p
+{
+    font-size: 1.3em;
+}
+.ikons
+{
+    font-size: 1.7em;
+}
